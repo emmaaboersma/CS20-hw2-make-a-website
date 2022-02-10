@@ -344,7 +344,7 @@ textarea:valid~label{
     display: contain;
     padding: 20em;
     background-size: 100%;
-    background-image: url("background.jpg");
+    background-image: url("/hw2/hw2/background.jpg");
     background-repeat: no-repeat;
 }
 
